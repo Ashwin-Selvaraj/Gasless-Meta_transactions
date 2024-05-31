@@ -1,0 +1,15 @@
+{
+     "relayer": {
+          "relayerId": "b0fa4aa6-e33f-4781-a4c4-f221a9c03e9a",
+          "name": "MetaTx",
+          "address": "0x30f40a2f9ad603d8c455f3ebbf0c7b2b87430aa6",
+          "network": "sepolia",
+          "createdAt": "2024-04-27T08:27:25.389Z",
+          "paused": false,
+          "systemPaused": false,
+          "policies": {},
+          "nonce": 0,
+          "minBalance": "100000000000000000",
+          "pendingTxCost": "0"
+     }
+}
